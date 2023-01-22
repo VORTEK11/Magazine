@@ -1,0 +1,42 @@
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.DAL\bin\Debug\Проект.DAL.dll.config
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.DAL\bin\Debug\Проект.DAL.dll
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.DAL\bin\Debug\Проект.DAL.pdb
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.DAL\bin\Debug\Проект.Models.dll
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.DAL\bin\Debug\Проект.Models.pdb
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.DAL\obj\Debug\Проект.DAL.csproj.AssemblyReference.cache
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.DAL\obj\Debug\Проект.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.DAL\obj\Debug\Проект.DAL.csproj.CopyComplete
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.DAL\obj\Debug\Проект.DAL.dll
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.DAL\obj\Debug\Проект.DAL.pdb
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.DAL\bin\Debug\Проект.DAL.dll.config
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.DAL\bin\Debug\Проект.DAL.dll
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.DAL\bin\Debug\Проект.DAL.pdb
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.DAL\bin\Debug\Проект.Models.dll
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.DAL\bin\Debug\Проект.Models.pdb
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.DAL\obj\Debug\Проект.DAL.csproj.AssemblyReference.cache
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.DAL\obj\Debug\Проект.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.DAL\obj\Debug\Проект.DAL.csproj.CopyComplete
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.DAL\obj\Debug\Проект.DAL.dll
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.DAL\obj\Debug\Проект.DAL.pdb
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.DAL\bin\Debug\Проект.DAL.dll.config
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.DAL\bin\Debug\Проект.DAL.dll
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.DAL\bin\Debug\Проект.DAL.pdb
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.DAL\bin\Debug\Проект.Models.dll
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.DAL\bin\Debug\Проект.Models.pdb
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.DAL\obj\Debug\Проект.DAL.csproj.AssemblyReference.cache
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.DAL\obj\Debug\Проект.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.DAL\obj\Debug\Проект.DAL.csproj.CopyComplete
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.DAL\obj\Debug\Проект.DAL.dll
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.DAL\obj\Debug\Проект.DAL.pdb

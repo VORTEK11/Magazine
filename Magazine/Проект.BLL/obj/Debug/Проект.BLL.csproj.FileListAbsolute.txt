@@ -1,0 +1,51 @@
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\Проект.BLL.dll.config
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\Проект.BLL.dll
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\Проект.BLL.pdb
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\Проект.DAL.dll
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\Проект.Models.dll
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\Проект.DAL.pdb
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\Проект.DAL.dll.config
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\Проект.Models.pdb
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.BLL\obj\Debug\Проект.BLL.csproj.AssemblyReference.cache
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.BLL\obj\Debug\Проект.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.BLL\obj\Debug\Проект.BLL.csproj.CopyComplete
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.BLL\obj\Debug\Проект.BLL.dll
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.BLL\obj\Debug\Проект.BLL.pdb
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\Проект.BLL.dll.config
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\Проект.BLL.dll
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\Проект.BLL.pdb
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\Проект.DAL.dll
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\Проект.Models.dll
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\Проект.DAL.pdb
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\Проект.DAL.dll.config
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\Проект.Models.pdb
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.BLL\obj\Debug\Проект.BLL.csproj.AssemblyReference.cache
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.BLL\obj\Debug\Проект.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.BLL\obj\Debug\Проект.BLL.csproj.CopyComplete
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.BLL\obj\Debug\Проект.BLL.dll
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.BLL\obj\Debug\Проект.BLL.pdb
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.BLL\bin\Debug\Проект.BLL.dll.config
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.BLL\bin\Debug\Проект.BLL.dll
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.BLL\bin\Debug\Проект.BLL.pdb
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.BLL\bin\Debug\Проект.DAL.dll
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.BLL\bin\Debug\Проект.Models.dll
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.BLL\bin\Debug\Проект.DAL.pdb
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.BLL\bin\Debug\Проект.DAL.dll.config
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.BLL\bin\Debug\Проект.Models.pdb
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.BLL\obj\Debug\Проект.BLL.csproj.AssemblyReference.cache
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.BLL\obj\Debug\Проект.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.BLL\obj\Debug\Проект.BLL.csproj.CopyComplete
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.BLL\obj\Debug\Проект.BLL.dll
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.BLL\obj\Debug\Проект.BLL.pdb

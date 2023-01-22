@@ -1,0 +1,18 @@
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.Models\bin\Debug\Проект.Models.dll
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.Models\bin\Debug\Проект.Models.pdb
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.Models\obj\Debug\Проект.Models.csproj.AssemblyReference.cache
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.Models\obj\Debug\Проект.Models.csproj.CoreCompileInputs.cache
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.Models\obj\Debug\Проект.Models.dll
+C:\Users\Evgen\Desktop\Курсы С#\Проект\Проект\Проект.Models\obj\Debug\Проект.Models.pdb
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.Models\bin\Debug\Проект.Models.dll
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.Models\bin\Debug\Проект.Models.pdb
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.Models\obj\Debug\Проект.Models.csproj.AssemblyReference.cache
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.Models\obj\Debug\Проект.Models.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.Models\obj\Debug\Проект.Models.dll
+C:\Users\Evgeniy.Sundukov\Desktop\Курсы С#\Проект\Проект\Проект.Models\obj\Debug\Проект.Models.pdb
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.Models\bin\Debug\Проект.Models.dll
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.Models\bin\Debug\Проект.Models.pdb
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.Models\obj\Debug\Проект.Models.csproj.AssemblyReference.cache
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.Models\obj\Debug\Проект.Models.csproj.CoreCompileInputs.cache
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.Models\obj\Debug\Проект.Models.dll
+C:\Users\Vortek\Desktop\FisrsShop-Console-master\Проект.Models\obj\Debug\Проект.Models.pdb
